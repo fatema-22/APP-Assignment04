@@ -1,0 +1,152 @@
+html , body {
+    margin: 0;
+    padding: 0;
+}
+nav {
+    background-color: #005580;
+    text-align: center;
+    display: flex;
+    justify-content: right;
+    border: 1px solid black;
+}
+.icon {
+    display: flex;
+    justify-content: center;
+}
+.icon1 img {
+    width: 40px;
+    margin-left: 5px;
+    margin-right: 3px;
+    background-color: white;
+    margin-top: -30px;
+    padding: 7px;
+    border: 2px solid #005580;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 0;
+    padding-left: 0;
+    width: 80px;
+}
+body {
+    background-color: #0099e6;
+}
+img {
+    width: 400px;
+    border-radius: 20px;
+}
+h1 {
+    font-size: 30px;
+    text-align: left;
+    padding-left: 30px;
+}
+h2 {
+    text-align: left;
+    display: block;
+    margin-top: 5px;
+    padding-left: 18px;
+    font-size: 20px;
+}
+a:hover {
+    background-color: #0086b3;
+    color: black;
+}
+.row1 {
+    display: flex;
+    background-color: white;
+    padding-right: 10px;
+    padding: 20px;
+    justify-content: center;
+}
+.promo-code {
+    text-align: center;
+    border: 1px solid black;
+    background-color: #005580;
+    color: white;
+    margin-top: 10px;
+    padding-left: 2px;
+    padding-right: 2px;
+    border-radius: 18px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+p {
+    margin: 2px;
+    padding-left: 18px;
+}
+.beu {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+ul {
+    margin-top: 18px;
+    margin-bottom: 20px
+}
+.contry-container {
+    width: 800px;
+    background-color: white;
+    margin: auto;
+}
+.row2 img {
+    width: 90%;
+    height: 90px;
+    border: 2px solid #005580;
+    border-radius: 15px;
+    
+}
+.name {
+    color: white;
+    background-color: #0099e6;
+    border-radius: 10px;
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    margin-top: 5px;
+    text-align: center;
+    border: 1px solid #005580;
+    
+}
+.rel {
+    padding-left: 20px;
+}
+.item {
+    background-color: #005580;
+    width: 180px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 15px;
+    
+    text-align: center;
+    border-top: 2px solid #005580;
+    border-bottom: 2px solid #005580;
+    border-radius: 15px;
+}
+.row2 {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 50px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+footer {
+    background-color: #005580;
+    color: white;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+
+
+
+
+
+
+
+
