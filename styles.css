@@ -8,6 +8,9 @@ nav {
     display: flex;
     justify-content: right;
     border: 1px solid black;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
 }
 .icon {
     display: flex;
