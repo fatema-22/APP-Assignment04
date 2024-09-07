@@ -113,6 +113,7 @@ h3 {
     border-radius: 15px;
     padding: 10px;
     color: white;
+    
 }
 .pic3:hover .name {
     visibility: visible;
